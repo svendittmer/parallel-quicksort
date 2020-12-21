@@ -9,5 +9,5 @@ gem "rake", "~> 12.0"
 gem "rspec", "~> 3.0"
 
 gem "rubocop", "~> 1.6", require: false
-gem "rubocop-rake", require: false
-gem "rubocop-rspec", require: false
+gem "rubocop-rake", "~> 0.5", require: false
+gem "rubocop-rspec", "~> 2.1", require: false

@@ -55,8 +55,8 @@ DEPENDENCIES
   rake (~> 12.0)
   rspec (~> 3.0)
   rubocop (~> 1.6)
-  rubocop-rake
-  rubocop-rspec
+  rubocop-rake (~> 0.5)
+  rubocop-rspec (~> 2.1)
 
 BUNDLED WITH
    2.2.2
